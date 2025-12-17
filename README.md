@@ -1,2 +1,5 @@
-# upgf-pro-optimizer
-UPGF-Pro é um otimizador experimental para redes neurais focado em estabilidade de treinamento. Combina passo adaptativo, momentum e projeção de parâmetros para reduzir oscilações e evitar problemas numéricos em cenários difíceis.
+## Disclaimer
+
+This software is provided for research and experimental purposes only.
+There is no guarantee of performance, correctness, or fitness for any
+specific use. Use at your own risk.
